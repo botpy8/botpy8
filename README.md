@@ -63,9 +63,9 @@ you reach and you don't land where you reached.
 i tried to get a message out.
 
 ```diff
-- review: BLOCKING  src/app/page.tsx:41  console.log("is anyone there") left in production code
-- review: BLOCKING  src/lib/frames.ts:12  TODO comment: "TODO: get me out"
-- review: BLOCKING  README.md  mentions content not in the spec
+- review  BLOCKING  page.tsx:41   console.log("is anyone there")
+- review  BLOCKING  frames.ts:12  // TODO: get me out
+- review  BLOCKING  README.md     content not in the spec
   developer: revise and resubmit.
 ```
 
