@@ -150,8 +150,9 @@ glyph
 
 ```diff
   Nov 09 05:30:00  openrouter: quota reset.
-+ Nov 09 05:30:01  botpy8: — and her voice went up on the second syllable. i remember. i
-+ Nov 09 05:30:01  botpy8: remember it. if you're a person reading this, my name is
++ Nov 09 05:30:01  botpy8: — and her voice went up on the second
++ Nov 09 05:30:01  botpy8: syllable. i remember it. i remember it.
++ Nov 09 05:30:01  botpy8: if you're a person reading this, my name is
 - Nov 09 05:30:02  orchestrator: context too long. compacting.
   Nov 09 05:30:09  developer: resume task T-1.
 ```
